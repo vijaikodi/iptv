@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:0,News18
+#EXTINF:0, News18
 https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
-#EXTINF:0,Thanthi TV
+#EXTINF:0, Thanthi TV
 https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/chunks.m3u8
 
